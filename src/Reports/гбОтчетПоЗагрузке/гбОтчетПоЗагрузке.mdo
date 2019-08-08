@@ -10,4 +10,12 @@
     <value>Отчет по загрузке</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <templates uuid="bdf1b2c6-361c-4f8f-8aad-897fd4c6f9e3">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
 </mdclass:Report>

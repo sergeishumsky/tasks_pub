@@ -112,5 +112,6 @@
   <content>DataProcessor.узРаботаСТелеграм</content>
   <content>InformationRegister.узПроксиСерверы</content>
   <content>DataProcessor.узОбновлениеПрограммы</content>
+  <content>Report.гбОтчетПоЗагрузке</content>
   <subsystems>узТелеграмм</subsystems>
 </mdclass:Subsystem>
