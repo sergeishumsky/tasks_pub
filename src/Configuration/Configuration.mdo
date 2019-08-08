@@ -1299,6 +1299,7 @@
   <reports>Report.узОтчетПоЗадачам</reports>
   <reports>Report.узГрафикСгоранияСпринта</reports>
   <reports>Report.узПроцентВыполненныхЗадач</reports>
+  <reports>Report.гбОтчетПоЗагрузке</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.АктивныеПользователи</dataProcessors>
   <dataProcessors>DataProcessor.БлокировкаРаботыПользователей</dataProcessors>
