@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1ae3cbef-19e1-4c7b-9807-4e5fd142edbe">
+  <producedTypes>
+    <objectType typeId="48935c2b-3d37-499c-9d50-58a9035e8d8f" valueTypeId="e9cb3c49-3e36-4f41-af64-6f01f35e986e"/>
+    <managerType typeId="01475101-15a0-4ca1-a693-82c16562d92b" valueTypeId="95444211-9c85-469e-b75e-37be6f19db88"/>
+  </producedTypes>
+  <name>гбОтчетПоЗагрузке</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет по загрузке</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>
